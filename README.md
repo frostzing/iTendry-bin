@@ -1,4 +1,7 @@
 # iTendry-bin
-iTendry for all major linux distributions (unmodified) still W.I.P
+
+DISCLAIMER : THIS IS NOT MY APPLICATION, IT JUST SERVES MY AUR PACKAGE FOR THIS APP BECAUSE IT WASN'T AVALAIBLE AT THE TIME I NEEDED IT ON MY COMPUTER
+I DO NOT CLAIM THE OWNERSHIP OF THIS APPLICATION, ALL THE RIGHT GOES TO https://itendry.com/
 
 ![itendry-logo](https://itendry.com/images/logo2.png)
+
